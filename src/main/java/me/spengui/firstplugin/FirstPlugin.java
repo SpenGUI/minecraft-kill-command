@@ -19,7 +19,7 @@ public final class FirstPlugin extends JavaPlugin {
    public boolean onCommand(CommandSender sender, Command command, String lable, String[] args) {
 
         //die kills player and yes i am following a youtube guide lmao
-        if (command.getName().equalsIgnoreCase( "die")){
+        if (command.getName().equalsIgnoreCase( "kill")){
 
             if (sender instanceof Player){
 

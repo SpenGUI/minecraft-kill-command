@@ -6,7 +6,6 @@ authors: [ SpenGUI ]
 description: My first plugin
 website: https://www.youtube.com/channel/UCbOSK7plfCiilId5haEq7Zg
 commands:
-  die:
+  kill:
     description: You kill your self lmao
     usage: /<command>
-
